@@ -1,0 +1,21 @@
+{
+    "name": "phpstudyer/dev-api-module",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhaoyadong",
+            "email": "250332754@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Ly\\":"src/"
+        },
+        "files": [
+            "helper.php"
+        ]
+    }
+}
