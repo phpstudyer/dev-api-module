@@ -25,7 +25,7 @@ class LyServiceProvider extends ServiceProvider
 	    ]);
 
 	    //载入文件
-	    require __DIR__.'/helper.php';
+//	    require __DIR__.'/helper.php';
     }
 
     /**
